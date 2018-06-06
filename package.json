@@ -1,0 +1,24 @@
+{
+  "name": "node-weather-slack-bot",
+  "version": "1.0.0",
+  "description": "Slack bot which tells you the weather. developed using Nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fahidnasir/node-weather-slack-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahidnasir/node-weather-slack-bot/issues"
+  },
+  "homepage": "https://github.com/fahidnasir/node-weather-slack-bot#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "slackbots": "^1.1.0"
+  }
+}
